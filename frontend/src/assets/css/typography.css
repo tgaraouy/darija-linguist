@@ -1,0 +1,65 @@
+/* typography.css */
+
+.darija-font {
+    font-family: 'Amiri', serif;
+    text-align: right;
+  }
+  
+  .latin-font {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
+  .main-word {
+    font-size: 3em;
+    font-weight: bold;
+  }
+  
+  .darija-example {
+    font-size: 1.2em;
+  }
+  
+  @media (max-width: 600px) {
+    .main-word {
+      font-size: 2.5em;
+    }
+    
+    .darija-example {
+      font-size: 1.1em;
+    }
+  }
