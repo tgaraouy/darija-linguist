@@ -1,0 +1,27 @@
+{
+  "name": "darija-linguist-backend",
+  "version": "1.0.0",
+  "description": "Backend for Darija Linguist application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "darija",
+    "linguistics",
+    "learning"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

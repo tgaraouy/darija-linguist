@@ -1,0 +1,224 @@
+{
+  "words": [
+    {
+      "darija": "عندي",
+      "phonetic": "3andi",
+      "arabicScript": "عندي",
+      "msaEquivalent": "لدي",
+      "region": "Casablanca",
+      "usageDarija": ["عندي كتاب", "عندي وقت"],
+      "usageFrench": ["J'ai un livre", "J'ai du temps"],
+      "usageEnglish": ["I have a book", "I have time"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "فين",
+      "phonetic": "fin",
+      "arabicScript": "فين",
+      "msaEquivalent": "أين",
+      "region": "Rabat",
+      "usageDarija": ["فين غادي؟", "فين هو؟"],
+      "usageFrench": ["Où vas-tu?", "Où est-il?"],
+      "usageEnglish": ["Where are you going?", "Where is he?"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "بغيت",
+      "phonetic": "bghit",
+      "arabicScript": "بغيت",
+      "msaEquivalent": "أريد",
+      "region": "Fes",
+      "usageDarija": ["بغيت نشوفك", "بغيت ناكل"],
+      "usageFrench": ["Je veux te voir", "Je veux manger"],
+      "usageEnglish": ["I want to see you", "I want to eat"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "سمحلي",
+      "phonetic": "sma7 li",
+      "arabicScript": "سمحلي",
+      "msaEquivalent": "عذرني",
+      "region": "Tangier",
+      "usageDarija": ["سمحلي، كنت غلطان", "سمحلي على التأخير"],
+      "usageFrench": ["Excuse-moi, je me suis trompé", "Pardon pour le retard"],
+      "usageEnglish": ["Sorry, I was wrong", "Sorry for the delay"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "شحال",
+      "phonetic": "ch7al",
+      "arabicScript": "شحال",
+      "msaEquivalent": "كم",
+      "region": "Casablanca",
+      "usageDarija": ["شحال الساعة؟", "شحال تمان هذا؟"],
+      "usageFrench": ["Quelle heure est-il?", "Combien ça coûte?"],
+      "usageEnglish": ["What time is it?", "How much does this cost?"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "حيت",
+      "phonetic": "7it",
+      "arabicScript": "حيت",
+      "msaEquivalent": "لأن",
+      "region": "Meknes",
+      "usageDarija": ["حيت كيعجبني", "حيت معنديش وقت"],
+      "usageFrench": ["Parce que je l'aime bien", "Parce que je n'ai pas de temps"],
+      "usageEnglish": ["Because I like it", "Because I don't have time"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نقلب",
+      "phonetic": "nqlb",
+      "arabicScript": "نقلب",
+      "msaEquivalent": "أبحث",
+      "region": "Rabat",
+      "usageDarija": ["نقلب على شي خدمة", "نقلب على مفتاحي"],
+      "usageFrench": ["Je cherche un travail", "Je cherche ma clé"],
+      "usageEnglish": ["I'm looking for a job", "I'm looking for my key"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "كتبت",
+      "phonetic": "ktbt",
+      "arabicScript": "كتبت",
+      "msaEquivalent": "كتبت",
+      "region": "Fes",
+      "usageDarija": ["كتبت رسالة", "كتبت مقال"],
+      "usageFrench": ["J'ai écrit une lettre", "J'ai écrit un article"],
+      "usageEnglish": ["I wrote a letter", "I wrote an article"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نجي",
+      "phonetic": "nji",
+      "arabicScript": "نجي",
+      "msaEquivalent": "آتي",
+      "region": "Tangier",
+      "usageDarija": ["نجي معاك؟", "نجي عندك اليوم؟"],
+      "usageFrench": ["Je viens avec toi?", "Je viens chez toi aujourd'hui?"],
+      "usageEnglish": ["Should I come with you?", "Should I come to your place today?"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نحلم",
+      "phonetic": "n7lm",
+      "arabicScript": "نحلم",
+      "msaEquivalent": "أحلم",
+      "region": "Agadir",
+      "usageDarija": ["نحلم بشيء زوين", "نحلم نكون غني"],
+      "usageFrench": ["Je rêve de quelque chose de beau", "Je rêve d'être riche"],
+      "usageEnglish": ["I dream of something beautiful", "I dream of being rich"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نرجع",
+      "phonetic": "nrja3",
+      "arabicScript": "نرجع",
+      "msaEquivalent": "أعود",
+      "region": "Casablanca",
+      "usageDarija": ["نرجع بعد شوية", "نرجع للدار"],
+      "usageFrench": ["Je reviendrai dans un moment", "Je rentre à la maison"],
+      "usageEnglish": ["I'll come back in a bit", "I'm going back home"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نعس",
+      "phonetic": "n3s",
+      "arabicScript": "نعس",
+      "msaEquivalent": "نام",
+      "region": "Marrakech",
+      "usageDarija": ["نعست بكري", "بغيت نعس"],
+      "usageFrench": ["J'ai dormi tôt", "Je veux dormir"],
+      "usageEnglish": ["I slept early", "I want to sleep"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "واش",
+      "phonetic": "wash",
+      "arabicScript": "واش",
+      "msaEquivalent": "هل",
+      "region": "Rabat",
+      "usageDarija": ["واش غادي تجي؟", "واش فهمتي؟"],
+      "usageFrench": ["Est-ce que tu viens?", "As-tu compris?"],
+      "usageEnglish": ["Are you coming?", "Did you understand?"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "شكون",
+      "phonetic": "chkoun",
+      "arabicScript": "شكون",
+      "msaEquivalent": "من",
+      "region": "Fes",
+      "usageDarija": ["شكون هذا؟", "شكون غادي يجي؟"],
+      "usageFrench": ["Qui est-ce?", "Qui va venir?"],
+      "usageEnglish": ["Who is this?", "Who is coming?"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "كيفاش",
+      "phonetic": "kifash",
+      "arabicScript": "كيفاش",
+      "msaEquivalent": "كيف",
+      "region": "Marrakech",
+      "usageDarija": ["كيفاش نعمل هذا؟", "كيفاش كتدير؟"],
+      "usageFrench": ["Comment faire ça?", "Comment fais-tu?"],
+      "usageEnglish": ["How do I do this?", "How do you do?"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "شرب",
+      "phonetic": "shrb",
+      "arabicScript": "شرب",
+      "msaEquivalent": "شرب",
+      "region": "Tangier",
+      "usageDarija": ["شربت كاس ديال الماء", "شرب القهوة"],
+      "usageFrench": ["J'ai bu un verre d'eau", "Il a bu du café"],
+      "usageEnglish": ["I drank a glass of water", "He drank coffee"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "مازال",
+      "phonetic": "mazal",
+      "arabicScript": "مازال",
+      "msaEquivalent": "لم يزل",
+      "region": "Agadir",
+      "usageDarija": ["مازال صغير", "مازال مكلستش"],
+      "usageFrench": ["Il est encore petit", "Je ne me suis pas encore assis"],
+      "usageEnglish": ["He is still young", "I haven't sat down yet"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نزيد",
+      "phonetic": "nzid",
+      "arabicScript": "نزيد",
+      "msaEquivalent": "أزيد",
+      "region": "Casablanca",
+      "usageDarija": ["نزيد شوية", "بغيت نزيد فالمعرفة"],
+      "usageFrench": ["Je vais ajouter un peu", "Je veux augmenter mes connaissances"],
+      "usageEnglish": ["I'll add a bit more", "I want to increase my knowledge"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نقول",
+      "phonetic": "nqoul",
+      "arabicScript": "نقول",
+      "msaEquivalent": "أقول",
+      "region": "Rabat",
+      "usageDarija": ["بغيت نقول حاجة", "نقول الحقيقة"],
+      "usageFrench": ["Je veux dire quelque chose", "Je dis la vérité"],
+      "usageEnglish": ["I want to say something", "I tell the truth"],
+      "phoneticSuggestions": []
+    },
+    {
+      "darija": "نبغي",
+      "phonetic": "nbghi",
+      "arabicScript": "نبغي",
+      "msaEquivalent": "أحب",
+      "region": "Marrakech",
+      "usageDarija": ["نبغي نسمع الموسيقى", "نبغي نخرج"],
+      "usageFrench": ["J'aime écouter de la musique", "J'aime sortir"],
+      "usageEnglish": ["I like listening to music", "I like going out"],
+      "phoneticSuggestions": []
+    }
+  ]
+}
